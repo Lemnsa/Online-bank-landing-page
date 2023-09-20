@@ -58,7 +58,6 @@ Also how to become better at using svg resources.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@lemnsa](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@lemnsa1](https://www.twitter.com/lemnsa)
 
