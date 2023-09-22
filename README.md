@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Lemnsa/online-bank-landing-page.github.io)
+- Live Site URL: .[.](https://lemnsa.github.io/online-bank-landing-page.github.io/)
 
 ## My process
 
@@ -58,8 +58,8 @@ Also how to become better at using svg resources.
 
 ## Author
 
-- Frontend Mentor - [@lemnsa](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@lemnsa1](https://www.twitter.com/lemnsa)
+- Frontend Mentor - [@lemnsa](https://www.frontendmentor.io/profile/Lemnsa)
+- Twitter - [@lemnsa1](https://www.twitter.com/lemnsa1)
 
 ## Acknowledgments
 I thank the frontend mentor for this career ugrading opportunity, it is a ride to stick to with friends.
