@@ -368,6 +368,12 @@ footer .support a:active{
             text-align: center;
         }
 
+        body {
+            position: fixed;
+            width:375px;
+            max-width: 100%;
+        }
+
         .header{
             width: 375px;
         }
